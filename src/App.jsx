@@ -11,6 +11,7 @@ return(
 			<Route path="/" element={<HomePage/>}/>
 			<Route path='/about' element={<About/>}></Route>
 		</Routes>
+	
 	</Router>
 </>
 )
