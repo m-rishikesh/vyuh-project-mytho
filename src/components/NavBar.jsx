@@ -10,6 +10,8 @@ const NavBar = () =>{
                     <Link className="px-4 py-4" to="/">Home</Link>
                     <Link className="px-4 py-4" to="/about">About</Link>
                     <Link className="px-4 py-4" to="/contact">Contact</Link>
+                    <Link className="px-4 py-4" to="/login">LogIn</Link>
+                    <Link className="px-4 py-4" to="/signup">SignUp</Link>
                     </div>
                 </nav>
             </div>

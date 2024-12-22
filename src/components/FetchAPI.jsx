@@ -14,7 +14,7 @@ const FetchAPI = ({api}) =>{
         console.log("Error while fetching: ",error);
         
     })
-    },[api])
+    },[data])
     return (
         <>
         {data}
